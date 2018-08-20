@@ -1,0 +1,11 @@
+
+
+[11/03/2016 00:30:30]  Running PredictSS.pl
+[11/03/2016 00:30:30]  Calling GPU to run prediction!!!
+[11/03/2016 00:30:30]  0 % complete!
+[11/03/2016 00:30:30]  Predicting Prot1...
+[11/03/2016 00:31:43]  Accessing model /space1/jh7x3/DNSS_work//models/DN1.model.dat by GPU
+[11/03/2016 00:31:45]  Accessing model /space1/jh7x3/DNSS_work//models/DN2.model.dat by GPU
+[11/03/2016 00:31:47]  Accessing model /space1/jh7x3/DNSS_work//models/DN3.model.dat by GPU
+[11/03/2016 00:31:49]  Prot1 prediction successful! Saved to ./Prot1.dnss and ./Prot1.vdnss
+[11/03/2016 00:31:49]  100% complete!

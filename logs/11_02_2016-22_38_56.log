@@ -1,0 +1,8 @@
+
+
+[11/02/2016 22:38:56]  Running PredictSS.pl
+[11/02/2016 22:38:56]  0 % complete!
+[11/02/2016 22:38:56]  Predicting Prot1...
+err: features: Couldn't find file .//temp/prob/Prot10.prob
+
+[11/02/2016 22:40:10]  100% complete!

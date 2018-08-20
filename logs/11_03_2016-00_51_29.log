@@ -1,0 +1,11 @@
+
+
+[11/03/2016 00:51:29]  Running PredictSS.pl
+[11/03/2016 00:51:29]  Calling CPU to run prediction!!!
+[11/03/2016 00:51:29]  0 % complete!
+[11/03/2016 00:51:29]  Predicting 1GNY-A...
+[11/03/2016 00:52:43]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN1.model.util.dat by CPU
+[11/03/2016 00:52:44]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN2.model.util.dat by CPU
+[11/03/2016 00:52:44]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN3.model.util.dat by CPU
+[11/03/2016 00:52:45]  1GNY-A prediction successful! Saved to output/1GNY-A.dnss and output/1GNY-A.vdnss
+[11/03/2016 00:52:45]  100% complete!

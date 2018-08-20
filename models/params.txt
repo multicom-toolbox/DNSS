@@ -1,0 +1,26 @@
+Global Parameters:
+	Tag: SSresults
+	Outdir: /home/mattspencer/dnssa/data/ss_pred/finaltest/
+	Iterations: 7
+	Reduced: 0
+	Replace: 1
+
+Layer 1 Parameters:
+	Window: 17
+	Pssm: 1
+	Atch: 1
+	Seq: 0
+	Arch: 500,500,500,200,3
+	Boost: 1
+	Bound: 0
+
+Layer 2 Parameters:
+	Window: 17
+	Pssm: 1
+	Atch: 0
+	Seq: 0
+	Arch: 600,600,600,250,3
+	Bound: 0
+
+Trial: 6	Q3: 78.4151015362774	Sov: 71.2849158245853	Q3: 78.4008938044464	Sov: 72.1995951792867
+Trial: 3	Q3: 80.7900683414807	Sov: 74.008474072408

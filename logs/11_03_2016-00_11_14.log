@@ -1,0 +1,9 @@
+
+
+[11/03/2016 00:11:14]  Running PredictSS.pl
+[11/03/2016 00:11:14]  Calling CPU to run prediction!!!
+[11/03/2016 00:11:14]  0 % complete!
+[11/03/2016 00:11:14]  Predicting Prot1...
+err: features: Couldn't find file .//temp/prob/Prot10.prob
+
+[11/03/2016 00:12:28]  100% complete!

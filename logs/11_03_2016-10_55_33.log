@@ -1,0 +1,13 @@
+
+
+[11/03/2016 10:55:33]  Running PredictSS.pl
+[11/03/2016 10:55:33]  Calling GPU to run prediction!!!
+[11/03/2016 10:55:33]  Checking GPU environment!!!
+[11/03/2016 10:55:33]  !!!GPU is detected to run cudamat. GPU enabled!
+[11/03/2016 10:55:33]  0 % complete!
+[11/03/2016 10:55:33]  Predicting Prot1...
+[11/03/2016 10:56:47]  Accessing model /space1/jh7x3/DNSS_release//models/DN1.model.dat by GPU
+[11/03/2016 10:56:49]  Accessing model /space1/jh7x3/DNSS_release//models/DN2.model.dat by GPU
+[11/03/2016 10:56:50]  Accessing model /space1/jh7x3/DNSS_release//models/DN3.model.dat by GPU
+[11/03/2016 10:56:52]  Prot1 prediction successful! Saved to ./Prot1.dnss and ./Prot1.vdnss
+[11/03/2016 10:56:52]  100% complete!

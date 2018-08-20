@@ -1,0 +1,29 @@
+
+
+[11/03/2016 00:56:36]  Running PredictSS.pl
+[11/03/2016 00:56:37]  Calling CPU to run prediction!!!
+[11/03/2016 00:56:37]  0 % complete!
+[11/03/2016 00:56:37]  Predicting 1GNY-A...
+[11/03/2016 00:57:50]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN1.model.util.dat by CPU
+[11/03/2016 00:57:50]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN2.model.util.dat by CPU
+[11/03/2016 00:57:51]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN3.model.util.dat by CPU
+[11/03/2016 00:57:52]  1GNY-A prediction successful! Saved to ./output/1GNY-A.dnss and ./output/1GNY-A.vdnss
+[11/03/2016 00:57:52]  10 % complete!
+[11/03/2016 00:57:52]  Predicting 1GNY-A...
+[11/03/2016 00:59:16]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN1.model.util.dat by CPU
+[11/03/2016 00:59:16]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN2.model.util.dat by CPU
+[11/03/2016 00:59:17]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN3.model.util.dat by CPU
+[11/03/2016 00:59:17]  1GNY-A prediction successful! Saved to ./output/1GNY-A.dnss and ./output/1GNY-A.vdnss
+[11/03/2016 00:59:17]  20 % complete!
+[11/03/2016 00:59:17]  Predicting 1GNY-A...
+[11/03/2016 01:04:24]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN1.model.util.dat by CPU
+[11/03/2016 01:04:25]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN2.model.util.dat by CPU
+[11/03/2016 01:04:26]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN3.model.util.dat by CPU
+[11/03/2016 01:04:27]  1GNY-A prediction successful! Saved to ./output/1GNY-A.dnss and ./output/1GNY-A.vdnss
+[11/03/2016 01:04:27]  30 % complete!
+[11/03/2016 01:04:27]  Predicting 2SN3-A...
+[11/03/2016 01:08:50]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN1.model.util.dat by CPU
+[11/03/2016 01:08:51]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN2.model.util.dat by CPU
+[11/03/2016 01:08:52]  Accessing model /space1/jh7x3/DNSS_work//models//util_models/DN3.model.util.dat by CPU
+[11/03/2016 01:08:53]  2SN3-A prediction successful! Saved to ./output/2SN3-A.dnss and ./output/2SN3-A.vdnss
+[11/03/2016 01:08:53]  100% complete!

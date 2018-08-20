@@ -1,0 +1,11 @@
+
+
+[11/03/2016 10:51:23]  Running PredictSS.pl
+[11/03/2016 10:51:23]  Calling CPU to run prediction!!!
+[11/03/2016 10:51:23]  0 % complete!
+[11/03/2016 10:51:23]  Predicting Prot1...
+[11/03/2016 10:52:37]  Accessing model /space1/jh7x3/DNSS_release//models//util_models/DN1.model.util.dat by CPU
+[11/03/2016 10:52:37]  Accessing model /space1/jh7x3/DNSS_release//models//util_models/DN2.model.util.dat by CPU
+[11/03/2016 10:52:38]  Accessing model /space1/jh7x3/DNSS_release//models//util_models/DN3.model.util.dat by CPU
+[11/03/2016 10:52:39]  Prot1 prediction successful! Saved to ./Prot1.dnss and ./Prot1.vdnss
+[11/03/2016 10:52:39]  100% complete!

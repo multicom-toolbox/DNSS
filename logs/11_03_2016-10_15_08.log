@@ -1,0 +1,13 @@
+
+
+[11/03/2016 10:15:08]  Running PredictSS.pl
+[11/03/2016 10:15:08]  Calling GPU to run prediction!!!
+[11/03/2016 10:15:08]  Checking GPU environment!!!
+[11/03/2016 10:15:08]  !!!GPU is detected to run cudamat. GPU enabled!
+[11/03/2016 10:15:08]  0 % complete!
+[11/03/2016 10:15:08]  Predicting Prot1...
+[11/03/2016 10:16:22]  Accessing model /space1/jh7x3/DNSS_release//models/DN1.model.dat by GPU
+[11/03/2016 10:16:22]  Accessing model /space1/jh7x3/DNSS_release//models/DN2.model.dat by GPU
+err: features: Couldn't find file .//temp/prob/Prot10.prob
+
+[11/03/2016 10:16:22]  100% complete!
